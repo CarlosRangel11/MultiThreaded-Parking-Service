@@ -1,0 +1,7 @@
+﻿todo ::
+
+Clean up commented debug code
+fix naming and thread tracking
+fix cell starvation (maybe oscilation instead of incremental search)
+kill all threads on parking structure exit. 
+
